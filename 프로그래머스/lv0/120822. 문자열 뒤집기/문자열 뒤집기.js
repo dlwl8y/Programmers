@@ -12,6 +12,6 @@ function solution(my_string) {
 // }
 
 // function solution(my_string) {
-//     var answer = [...my_string].reverse().join("");
+//     let answer = [...my_string].reverse().join("");
 //     return answer;
 // }
