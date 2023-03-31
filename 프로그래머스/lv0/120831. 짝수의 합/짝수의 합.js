@@ -6,6 +6,7 @@ function solution(n) {
     return result;
 }
 
+// 수열 공식 활용
 // function solution(n) {
 //     var half = Math.floor(n/2);
 //     return half*(half+1);
