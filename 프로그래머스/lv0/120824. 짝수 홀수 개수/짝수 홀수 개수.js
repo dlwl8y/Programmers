@@ -10,3 +10,20 @@ function solution(num_list) {
     }
     return result;
 }
+
+
+// function solution(list) {
+//     return list.reduce((acc, cur) => (cur & 1 ? acc[1]++ : acc[0]++, acc), [0, 0])
+// }
+
+
+
+// function solution(num_list) {
+//     const answer = [0,0];
+
+//     for(let a of num_list){
+//         answer[a%2] += 1
+//     }
+
+//     return answer;
+// }
