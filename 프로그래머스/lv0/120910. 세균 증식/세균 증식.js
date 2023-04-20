@@ -6,3 +6,11 @@ function solution(n, t) {
     }
     return result;
 }
+
+// function solution(n, t) {
+//   return n << t;
+// }
+
+// function solution(n, t) {
+//   return n * Math.pow(2,t);
+// }
