@@ -5,6 +5,5 @@ function solution(order) {
 
 
 // function solution(order) {
-//     var answer = [...order.toString().matchAll(/[3|6|9]/g)].length;
-//     return answer;
+//     return [...order.toString().matchAll(/[3|6|9]/g)].length;
 // }
