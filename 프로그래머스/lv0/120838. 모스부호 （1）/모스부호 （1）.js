@@ -10,3 +10,8 @@ function solution(letter) {
     const result = letter.split(' ').map((el) => morse[el]).join('');
     return result;
 }
+
+
+// function solution(letter) {
+//     return letter.split(' ').reduce((prev, curr) => prev + morse[curr], '')
+// }
